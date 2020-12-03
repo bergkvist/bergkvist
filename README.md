@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm currently working on [simulating and visualizing power grids](https://www.kongsberg.com/no/digital/solutions/kognitwingrid/), and building a [fiat gateway for crypto-currencies](https://www.kaupangkrypto.no/).
 
 <!--
 **bergkvist/bergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
