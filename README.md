@@ -1,4 +1,4 @@
-I'm currently working on [building a flexibility market place for power grids](https://www.volue.com/), and building a [fiat gateway for crypto-currencies](https://www.kaupangkrypto.no/).
+I'm currently working on building a [flexibility market place for power grids](https://www.volue.com/), and a [fiat gateway for crypto-currencies](https://www.kaupangkrypto.no/).
 
 ---
 
