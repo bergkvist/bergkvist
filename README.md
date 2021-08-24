@@ -2,7 +2,7 @@ I’m currently working on building a [:zap: flexibility market place for power 
 
 ---
 
-Some technical fields I have first-hand experience with:
+Some technical fields I have in-depth first-hand experience with:
 - :spider_web: Full stack web development
 - :anchor: Site Reliability Engineering (SRE)/DevOps
 - :bricks: Software architecture and system design
