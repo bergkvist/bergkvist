@@ -1,4 +1,4 @@
-I’m currently working on building a [:zap: flexibility market place for power grids](https://www.volue.com/), and a [:bank: fiat gateway for crypto-currencies](https://www.kaupangkrypto.no/).
+I’m currently working on :bank: [infrastructure for securing digital assets](https://www.qredo.com/).
 
 ---
 
