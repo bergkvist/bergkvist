@@ -1,4 +1,4 @@
-I’m currently working on :bank: [infrastructure for securing digital assets](https://www.qredo.com/).
+I’m currently working on :scroll: [a performance-optimized approach to SNARK construction based on towers of binary fields](https://gitlab.com/UlvetannaOSS/binius).
 
 ---
 
@@ -12,6 +12,7 @@ Some technical fields I have in-depth first-hand experience with:
 - :electric_plug: Electronics and distribution power grids
 - :link: Blockchain and cryptocurrency
 - :shield: Security and incident response
+- :scroll: Zero-Knowledge cryptography
 
 <!--
 **bergkvist/bergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
