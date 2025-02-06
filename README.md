@@ -1,1 +1,1 @@
-I’m currently working on [binius](https://gitlab.com/UlvetannaOSS/binius), a Rust library implementing a cryptographic succinct non-interactive argument of knowledge (SNARK) over towers of binary fields.
+I’m currently working on [binius](https://github.com/IrreducibleOSS/binius), a Rust library implementing a cryptographic succinct non-interactive argument of knowledge (SNARK) over towers of binary fields.
